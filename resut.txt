@@ -1,0 +1,403 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML>
+
+<HEAD>
+
+<TITLE> Dwarkadas J. Sanghvi College of Engineering > About DJSCE </TITLE>
+
+<link rel=stylesheet href="../includes/style.css">
+
+</HEAD>
+
+
+
+<BODY class="body">
+
+<!-- header -->
+
+<table border="0" cellspacing=0 cellpadding=0 align=center>
+
+	<tr>
+
+		<td align=center valign=bottom>
+
+			<object>
+
+			<param name="movie" value="../images/SVKM_logo.swf">
+
+			<embed src="../images/SVKM_logo.swf"  width="130" height="110">
+
+			</embed>
+
+			</object>
+
+			</td>
+
+		    <td align=left valign=bottom>
+
+					&nbsp;&nbsp;<a href="http://svkm.ac.in" target="_blank">Shri Vile Parle Kelavani Mandal's </a><BR>
+
+					<img src="../images/topImage1.gif">
+
+			</td>
+
+			<td align=center valign=bottom>
+
+			<img src="../images/djsce.png" height="90" width="130">	
+
+			</td> 
+
+		</tr>
+
+	   <tr>
+
+			<td  colspan=3 align="right" valign="top">
+
+			 <script language="JavaScript" src="../library/static_nav.js">
+
+			</script>
+
+			</td>
+
+		</tr>
+
+</table>
+
+<!-- End of header -->
+
+
+
+<TABLE>
+
+<TR>
+
+	<TD class=theader width = 50 valign=center align=center>
+
+		<h3><font color=white>
+
+		  <p>A</p>
+
+		  <p>B</p>
+
+		  <p>O</p>
+
+		  <p>U</p>
+
+		  <p>T</p>
+
+		  <p>&nbsp; </p>
+
+		  <p>D</p>
+
+		  <p>J</p>
+
+		  <p>S</p>
+
+		  <p>C</p>
+
+		  <p>E</p>
+
+		 </font></h3>
+
+	</TD>
+
+    <TD class=body>
+
+     <TABLE cellspacing=10>
+
+		<TR class=body>
+
+			<td><p>Affiliated to the University of Mumbai, the College conducts the  following <strong>courses of study for the B.E./M.E./Ph.D. Degrees. </strong><BR>
+              </p>
+<p align="center"><strong><u>Academic Year 2013-2014</u></strong></p>
+              <p align="center"><strong>Under Graduate Courses (B.E.)</strong></p>
+              <table cellpadding=5  align = center  border=1 bordercolor=#CCCCFF>
+			    
+			    <tr CLASS=tbody>
+
+			<Td width=50>1.
+
+			<td width=300>Chemical Engineering 
+
+			<td width=120>60 seats 
+
+			</tr>
+
+		
+
+			<tr class=body>
+
+			<Td>2.
+
+			<td>Electronics Engineering
+
+			<td>60 seats
+
+			</tr>
+
+
+
+			<tr CLASS=tbody>
+
+			<Td>3.
+
+			<td>Production Engineering 
+
+			<td>30 Seats
+
+			</tr>
+
+
+
+			<tr CLASS=body>
+
+			<Td>4.
+
+			<td>Bio-Medical Engineering 
+
+			<td>30 Seats
+
+			</tr>
+
+			
+
+			<tr CLASS=tbody>
+
+			<Td>5.
+
+			<td>Electronics & Telecommunication Engineering 
+
+			<td>120 seats 
+
+			</tr>
+
+
+
+			<tr CLASS=body>
+
+			<Td>6.
+
+			<td>Information Technology 
+
+			<td>60 seats 
+
+			</tr>
+
+
+
+			<tr CLASS=tbody>
+
+			<Td>7.
+
+			<td>Computer Engineering 
+
+			<td>120 seats 
+
+			</tr>
+
+
+
+			<tr CLASS=body>
+
+			<Td>8.
+
+			<td>Mechanical Engineering
+
+			<td>120 seats 
+
+			</tr>
+
+
+
+			</table>
+
+			</td>
+
+		</TR>
+
+		
+
+		<TR class="body" align="center">
+
+		<TD align="center"><p><strong>Post Graduate Courses (M.E.)</strong></p>
+		  <table cellpadding=5  align = center  border=1 bordercolor=#CCCCFF>
+		    
+		    <tr CLASS=tbody>
+
+			<Td width=50>1.
+
+			<td width=340>Electronics & Telecommunication Engineering 
+
+			<td width=120>18 seats 
+
+			</tr>
+
+		
+
+			<tr class=body>
+
+			<Td>2.
+
+			<td>Mechanical Engineering
+
+			<td>18 seats
+
+			</tr>
+
+		<tr CLASS=tbody>
+
+			<Td width=50>3.
+
+			<td width=340>Computer Engineering 
+
+			<td width=120>18 seats 
+
+			</tr>
+
+		
+
+			</table>
+
+
+
+		</td>
+
+		</tr>
+        
+        
+        <TR class="body" align="center">
+
+		<TD align="center"><p><strong>Ph.D. Course </strong></p>
+		  <table cellpadding=5  align = center  border=1 bordercolor=#CCCCFF>
+		    
+		    <tr CLASS=tbody>
+
+			<Td width=50>1.
+
+			<td width=340>Mechanical Engineering
+			<td width=120>10 seats 
+
+			</tr>
+
+		
+
+			</table>
+
+
+
+		</td>
+
+		</tr>
+
+
+
+
+
+
+
+
+
+		<TR class=body>
+
+		<TD>In a short span, the  college has come to be recognized as a <strong>premier institute of technical  education.</strong> The favourable location of the institute in the heart of Mumbai  along with <strong>state-of-the-art facilities and distinguished faculty</strong> has  been a nurturing ground for students of high academic capabilities. <strong>23,500  sq. meters of spacious classrooms, well-equipped laboratories and workshops,  new age computer facilities and a well-stocked library </strong>provide a  stimulating educational environment within the College. The College has  attracted qualified and experienced faculty members with more additions in the  years to come.<BR> 
+
+		</td>
+
+		</TR>
+
+		<TR>
+
+		<TD></td>
+
+		</tr>
+
+		<TR class=body>
+
+		<td>Continuing our commitment  of providing students with <strong>better infrastructural facilities</strong>; the  College has been adding new equipments and furniture. A further injection of  quality equipment is in the pipeline.</td>
+
+		</TR>
+
+	
+
+		<TR>
+
+		<TD></td>
+
+		</tr>
+
+
+
+		<TR class=body>
+
+		<td>These continued efforts of  the Mandal, the faculty and our students has propelled the college into the top  echelons of Quality Engineering Colleges with <strong>an 'A+' grade certificate from  the Directorate of Technical Education, MS.</strong></td>
+
+		</TR>
+
+		<tr>
+
+          <td align=center>
+
+            <a class=tlink href="president_message.html"><font color=#660000 size=3>
+
+				Message: President, SVKM</font>
+
+		    </a>
+
+			&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class=tlink href="chairman_message.html">
+
+				<font color=#660000 size=3>Message: Chairman, Governing Council DJSCOE</font>
+
+		    </a><BR><BR>
+
+
+
+			<a class=tlink href="principal_desk.html">From Principal's Desk </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class=tlink href="../pdf/Head-of-Institution-Arial-85.pdf" target="_blank">Principal's Details </a>
+
+			<!--
+
+			&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class=tlink href="VicePrincipal_Desk.html">
+
+				From Vice-Principal's Desk 
+
+		    </a>-->
+
+		    <BR><BR>
+
+
+
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class=tlink href="vision.html">Our Vision</a>
+
+				&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class=tlink href="mission.html">Our Mission</a>
+
+				&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class=tlink href="highlights.html">Highlights</a>
+
+				&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a class=tlink href="../pdf/Performance_of_Students.pdf">
+
+				Academic Performance 
+
+		    </a>
+
+
+
+		  </td>
+
+		</tr>
+
+	  </TABLE>
+
+     </td>
+
+  </tr>
+
+</table>
+
+</body>
+
+
+
+</html>
+
+
+
